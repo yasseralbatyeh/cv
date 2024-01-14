@@ -1,0 +1,17 @@
+[dir] .nx-theme-styles .nx-theme-form { 
+	background-color: #FFF8DC; 
+}
+[dir] .nx-theme-styles .nx-theme-page {
+  background-color: #bd0451;
+}
+[dir] .nx-theme-styles .nx-theme-form .nx-theme-button-1 { 
+  background-color: #9c2be7; 
+  color: #ebfdbf; 
+  font-size: 1.2em; 
+  text-transform: uppercase; 
+  font-weight: 700; 
+  width: 100%; 
+}
+[dir] .nx-theme-styles .nx-theme-form .form-group 
+  { padding: 30px; border: 1px solid #9d9d9d; 
+}
