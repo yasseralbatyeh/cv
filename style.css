@@ -1,3 +1,11 @@
-[dir] .nx-theme-styles .nx-theme-form { 
-	background-color: blue; 
+[dir] .nx-theme-styles .nx-theme-page {
+  background-color: #431852;
+}
+[dir] .nx-theme-styles .nx-theme-form .nx-theme-button-1 { 
+  background-color: #9c2be7; 
+  color: #ebfdbf; 
+  font-size: 1.2em; 
+  text-transform: uppercase; 
+  font-weight: 700; 
+  width: 100%; 
 }
